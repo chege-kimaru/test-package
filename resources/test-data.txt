@@ -1,0 +1,4 @@
+This is sample test data used by the validation process.
+Line 1: Testing basic functionality
+Line 2: Checking parameter passing
+Line 3: Verifying script execution
